@@ -2,9 +2,8 @@
 
 **Software Engineer**
 
-Passionnée par l'analyse de données et l'intelligence artificielle. Je développe des solutions basées sur le Machine Learning et le traitement du langage naturel.
-
-📍 Tunis, Tunisie | 🎓 ESPRIT (2020-2025)
+passionate about Data Science, Artificial Intelligence, and intelligent software solutions. I love building applications that merge data analy
+📍 Tunis, Tunisia | 🎓 ESPRIT (2020-2025)
 
 ---
 
