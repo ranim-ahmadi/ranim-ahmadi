@@ -1,6 +1,6 @@
 # 👋 Ranim Ahmadi
 
-**Ingénieure Informatique | Data Science & IA**
+**Software Engineer**
 
 Passionnée par l'analyse de données et l'intelligence artificielle. Je développe des solutions basées sur le Machine Learning et le traitement du langage naturel.
 
