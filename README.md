@@ -12,4 +12,4 @@ Software Engineer passionate about designing and building modern, efficient, and
 🌐 [Portfolio](https://ranimahmadi.me/)
 
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
