@@ -10,3 +10,6 @@ Software Engineer passionate about designing and building modern, efficient, and
 📧 ahmadiranim.pro@gmail.com  
 💼 [LinkedIn](https://linkedin.com/in/ranim-ahmadi-534444251)  
 🌐 [Portfolio](https://ranimahmadi.me/)
+
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
