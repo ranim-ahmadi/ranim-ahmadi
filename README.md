@@ -2,8 +2,7 @@
 
 **Software Engineer**
 
-Software Engineer passionate about Data Science, Artificial Intelligence, and intelligent software solutions. I love building applications that merge data analysis, automation, and modern web development to deliver impactful and efficient systems. Curious and motivated, I constantly seek to learn, innovate, and apply AI techniques to solve real-world problems through data-driven decision making.
-📍 Tunis, Tunisia 
+Software Engineer passionate about designing and building modern, efficient, and user-focused applications. I enjoy turning ideas into reliable software solutions through clean code, creativity, and continuous learning.
 
 
 ## 📫 Contact
