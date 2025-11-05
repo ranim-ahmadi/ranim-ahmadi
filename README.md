@@ -13,8 +13,8 @@ Software Engineer passionate about designing and building modern, efficient, and
 - **Backend**: Python, Spring Boot, Django
 - **Frontend**: Angular, React.js
 - **Database**: PostgreSQL
-- **DevOps**: Docker, Kubernetes, Ansible, Terraform, Jenkins, OpenStack
-- **Monitoring**: Prometheus, Grafana, SonarQube
+- **DevOps**: Docker, Kubernetes, Ansible, Terraform, Jenkins, OpenStack, SonarQube
+- **Monitoring**: Prometheus, Grafana
 - **AI/ML**: NLP, NLTK, Hugging Face Transformers, TensorFlow
 
 ## 📫 Let's Connect
